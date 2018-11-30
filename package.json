@@ -8,9 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "hex-to-binary": "^1.0.1",
-    "jimp": "^0.6.0"
-  }
+  "license": "ISC"
 }
